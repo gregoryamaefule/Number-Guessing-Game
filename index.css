@@ -24,6 +24,7 @@ body {
   padding: 3px;
 }
 main{
+    border: 1px solid black;
   
 }
 input[type="text"]{
