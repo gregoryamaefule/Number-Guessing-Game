@@ -1,0 +1,46 @@
+
+
+
+body {
+    font-family: monospace;
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+main{
+  
+}
+input[type="text"]{
+  height: 2em;
+  min-width: 250px;
+  border: 2px solid black;
+}
+input[type="submit"]{
+  height: 2em;
+  min-width: 200px;
+  box-shadow: 3px 3px 6px black;
+  background-color : yellow;
+  text-align: center;
+  margin-top: 10px
+
+}
+button{
+  height: 2em;
+  min-width: 200px;
+  box-shadow: 3px 3px 6px black;
+  background-color : yellow;
+  text-align: center;
+  margin-top: 10px
+
+}
